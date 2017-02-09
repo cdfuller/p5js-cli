@@ -4,7 +4,7 @@ A command line program for creating empty p5js projects.
 
 ## Usage
 ```
-ruby p5js-cli.rb [directory-name]
+ruby p5js-cli.rb [target-directory]
 ```
 
 ## Status
